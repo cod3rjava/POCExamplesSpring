@@ -1,0 +1,28 @@
+server:
+  port: 6060
+  
+  servlet:
+    context-path: /STUDENT
+
+student:
+   studentProps:
+    invalidCreadentials: Account Create Successfully
+    regCreationFailure: Account Creation Failed
+    
+    
+spring:    
+ jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+       show_sql: true
+       format_sql: true
+       dialect: org.hibernate.dialect.OracleDialect
+ datasource:
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: scott
+    password: tiger
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    
+       

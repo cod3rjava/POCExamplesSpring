@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "uhip.uhip-props.invalid-creadentials",
+    "type": "java.lang.String",
+    "description": "A description for 'uhip.uhip-props.invalid-creadentials'"
+  },
+  {
+    "name": "uhip.uhip-props.account-deactivate",
+    "type": "java.lang.String",
+    "description": "A description for 'uhip.uhip-props.account-deactivate'"
+  },
+  {
+    "name": "uhip.uhip-props.acc-creation-failure",
+    "type": "java.lang.String",
+    "description": "A description for 'uhip.uhip-props.acc-creation-failure'"
+  },
+  {
+    "name": "uhip.uhip-props.acc-creation-succes",
+    "type": "java.lang.String",
+    "description": "A description for 'uhip.uhip-props.acc-creation-succes'"
+  },
+  {
+    "name": "uhip.uhip-props.acc-creation-email-sub",
+    "type": "java.lang.String",
+    "description": "A description for 'uhip.uhip-props.acc-creation-email-sub'"
+  },
+  {
+    "name": "uhip.uhip-props.uhip-admin-phno",
+    "type": "java.lang.String",
+    "description": "A description for 'uhip.uhip-props.uhip-admin-phno'"
+  },
+  {
+    "name": "student.uhip-props.invalid-creadentials",
+    "type": "java.lang.String",
+    "description": "A description for 'student.uhip-props.invalid-creadentials'"
+  },
+  {
+    "name": "student.student-props.invalid-creadentials",
+    "type": "java.lang.String",
+    "description": "A description for 'student.student-props.invalid-creadentials'"
+  },
+  {
+    "name": "student.student-props.acc-creation-succes",
+    "type": "java.lang.String",
+    "description": "A description for 'student.student-props.acc-creation-succes'"
+  },
+  {
+    "name": "student.student-props.acc-creation-failure",
+    "type": "java.lang.String",
+    "description": "A description for 'student.student-props.acc-creation-failure'"
+  },
+  {
+    "name": "student.student-props.reg-creation-failure",
+    "type": "java.lang.String",
+    "description": "A description for 'student.student-props.reg-creation-failure'"
+  }
+]}
